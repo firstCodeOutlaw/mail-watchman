@@ -1,0 +1,6 @@
+MAIL BODY SAMPLE
+Currently running email tests for some functionality. No mail
+acknowledgement required.
+
+Regards,
+Benjamin.
